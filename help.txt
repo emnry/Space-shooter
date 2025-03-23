@@ -1,0 +1,35 @@
+ ___  ___  _______   ___       ________   
+|\  \|\  \|\  ___ \ |\  \     |\   __  \  
+\ \  \\\  \ \   __/|\ \  \    \ \  \|\  \ 
+ \ \   __  \ \  \_|/_\ \  \    \ \   ____\
+  \ \  \ \  \ \  \_|\ \ \  \____\ \  \___|
+   \ \__\ \__\ \_______\ \_______\ \__\   
+    \|__|\|__|\|_______|\|_______|\|__|   
+                                          
+                                          
+Pour lancer le programme, lancer le fichier startup.py,
+si pygame est installé depuis cmd et non depuis l'invite de commande anaconda,
+il peut être lancer par le programme .bat 'Lancement via invite de commandes'
+
+Le fichier startup.py peut être modifié dans l'encart PARAMETRES CHANGEABLES
+
+
+SOURCES DES IMAGES
+laser, background et touts asteriods : pixels art fais par moi
+ennemis : beta.pixelvibe (images générés par inteligence artificielle via : [Pixel Character Full Body Sprites])
+vaisseau : www.pngegg.com
+
+FONCTIONNEMENT DES VAGUE
+
+Astéroïdes : Les astéroïdes sont naturellement attirés par le joueur, et l'objectif est de les éviter tout en les détruisant.
+Trolls : Les trolls sont en grand nombre et se dirigent inexorablement vers le joueur. Il est impératif de les éviter, car leur approche est rapide and déterminée.
+Ennemis de feu : Ces adversaires descendent depuis le haut de l'écran et sont attirés vers le joueur. En les attaquant, ils sont directement attirés vers le joueur, adoptant une course plus effrénée.
+Ennemi de pierre : Les ennemis de pierre se déplacent de droite à gauche, accélérant progressivement s'ils sont touchés. À leur élimination, ils libèrent un astéroïde.
+Ennemi d'eau : Les ennemis d'eau accélèrent légèrement et créent deux autres ennemis lorsqu'ils sont détruits. Il est impératif de les tuer rapidement pour ne pas se laisser dépassé.
+Ennemi de plante : Les ennemis de plante se précipitent vers le joueur tout en se déplaçant des deux extrémités supérieure et inférieure de l'écran.
+Boss : Le boss génère deux sbires une fois touché. Sa vitesse varie en fonction des dégâts infligés à ses sbires.
+
+
+
+
+

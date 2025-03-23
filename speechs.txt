@@ -1,0 +1,79 @@
+PLANT OPPONENT
+"Intrus, la colère de la nature vous frappera !",
+"Énergies végétales vous vaincront, aventurier.",
+"Nos racines vous enserreront, votre destin est scellé.",
+"Que les plantes cosmiques commencent votre destruction !",
+"La sève stellaire coule, votre défaite est proche.",
+"Le cosmos végétal rugit, succombez à sa beauté mortelle !",
+"Le règne vert triomphera.",
+"La jungle sera ton tombeau."
+
+FIRE OPPONENT 
+"Le feu stellaire dévore, humain, tu brûleras.",
+"Flammes interstellaires, prépare-toi à l'anéantissement.",
+"Les cendres célestes engloutiront ton existence.",
+"La furie des étoiles de feu t'engloutira, intrus.",
+"L'enfer cosmique est prêt à te consumer, mortel.",
+"Que les flammes intergalactiques purifient ce monde !",
+"Brûle dans l'ombre de notre pouvoir, faible créature.",
+"L'embrasement spatial annonce ta fin imminente."
+
+WATER OPPONENT
+"Les vagues célestes engloutiront tout sur leur passage !",
+"Les abysses de l'espace te dévoreront, intrus.",
+"Plonge dans l'oubli galactique, pauvre aventurier.",
+"Les marées interstellaires te submergeront, mortel.",
+"Les eaux de l'univers t'emporteront vers ta fin.",
+"Que les courants cosmiques te guident vers l'anéantissement !",
+"La puissance aquatique des étoiles scellera ton destin.",
+"Les profondeurs spatiales murmurent ta défaite imminente."
+
+ROCK OPPONENT
+"Les cristaux cosmiques résonnent, ta destruction est inévitable !",
+"Les météorites de l'espace forgeant ta défaite s'approchent.",
+"Que les minéraux galactiques scellent ton destin, intrus !",
+"Les pierres célestes te réduiront en poussière, aventurier.",
+"Le règne minéral de l'espace broie tout sur son passage.",
+"Les cristaux stellaires annoncent ton anéantissement imminent.",
+"La colère des astéroïdes pulvérisera ta faible défense.",
+"Les roches cosmiques te briseront, et tu seras oublié."
+
+TROLL OPPONENT
+"Les rires cosmiques des trolls résonnent, prépare-toi à la folie !",
+"Les farces interstellaires des trolls vont te tourmenter, intrus.",
+"Que les gaffes galactiques des trolls t'emportent vers l'humiliation !",
+"Les ruses stellaires des trolls vont dérouter ta destinée, aventurier.",
+"Que nos farces intergalactiques soient ton cauchemar !",
+"Les farfadets cosmiques t'attendent, et ton destin sera leur plaisanterie.",
+"La plaisanterie des étoiles est sur le point de te consumer, mortel.",
+"Les tours des trolls célestes vont te faire tourner la tête."
+
+DEMON BOSS OPPONENT
+"Les flammes infernales dévoreront ton âme !",
+"Prépare-toi à l'apocalypse galactique, misérable créature.",
+"Les démons de l'espace réclament ton anéantissement, intrus !",
+"L'enfer cosmique s'éveille, et tu en seras la victime.",
+"Que les ombres démoniaques de l'univers te submergent, aventurier.",
+"Les légions infernales de l'espace te condamnent à l'oubli.",
+"Les cris des démons résonnent, ton jugement est proche, mortel.",
+"La fureur démonique des étoiles sera ton ultime tourment."
+
+ASTERIODS
+"Au cœur des astéroïdes, nous forgerons notre victoire !",
+"Parmi les astéroïdes, nous serons le phare de la résistance.",
+"Les rochers spatiaux ne font que renforcer notre détermination.",
+"Les étoiles ne peuvent pas éteindre la flamme qui brûle en nous.",
+"Dans le labyrinthe des astéroïdes, nous resterons intrépide.",
+"Les cailloux cosmiques ne font que nourrir notre détermination.",
+"À travers les champs d'astéroïdes, nous tracerons notre route vers la gloire.",
+"Les astéroïdes ne sont que des défis à surmonter, nous nous'élèverons au-dessus d'eux."
+
+GAMEOVER
+"Mes rêves se dissipent dans l'obscurité de la défaite.",
+"La bataille est perdue, mais la guerre continue dans l'ombre.",
+"Les étoiles témoignent de ma défaite, mais je renaitrai.",
+"La mort n'est qu'une pause, je renaîtrai plus fort.",
+"Le cosmos a enregistré ma défaite, mais ma légende persiste.",
+"Le silence de l'espace résonne avec ma défaite temporaire.",
+"Ma destinée est suspendue dans l'oubli, mais je reprendrai mon chemin.",
+"Le néant m'entoure, mais la renaissance émerge de l'ombre."
