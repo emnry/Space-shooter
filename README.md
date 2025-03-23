@@ -14,19 +14,20 @@ Ce projet est un jeu d'arcade développé en Python avec la bibliothèque Pygame
 
 ## ️ Installation
 
-1.  Assurez-vous d'avoir Python 3 et Pygame installés.
-2.  Clonez ce dépôt Git :
-   
-    `git clone https://github.com/votre-utilisateur/votre-repo.git`
+Assurez-vous d'avoir Python 3 et Pygame installés.
+```bash
+# Clonez ce dépôt Git :
 
-4.  Naviguez jusqu'au répertoire du projet :
+git clone https://github.com/emnry/Space-shooter.git
 
-    `cd votre-repo`
+# Naviguez jusqu'au répertoire du projet :
 
-5.  Exécutez le jeu :
+cd votre-repo
 
-    `python main.py`
+# Exécutez le jeu :
 
+python main.py
+```
 ##  Dépendances
 
 * Pygame
